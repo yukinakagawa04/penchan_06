@@ -2,7 +2,7 @@
 
 ## DEMO
 
-- デプロイしている場合は URL を記入（任意）
+- https://yukinakagawa04.github.io/penchan_06/ 
 
 ## 紹介と使い方
 
@@ -18,6 +18,7 @@
 - 残タスク
 - csv から１行ずつデータを抽出し、<div>タグにひとつづつ入れる https://www.sejuku.net/blog/24218#:~:text=CSV%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%8B%E3%82%891%E8%A1%8C,%E3%81%AB%E9%85%8D%E5%88%97%E3%82%92%E8%BF%94%E3%81%97%E3%81%BE%E3%81%99%E3%80%82
 - PHP での画像の保存・表示方法 https://qiita.com/okdyy75/items/669dd51b432ee2c1dfbc https://qiita.com/ryo-futebol/items/11dea44c6b68203228ff
+- ローカルストレージに保存した画像を表示させることはできそう
 
 ## 参考にした web サイトなど
 
