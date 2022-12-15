@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    text-align: left;
+}
+
+.input_area {
+    margin: 10px 0 0 20px;
+    float: left;
+    width: 350px;
+}
+
+.read_area {
+    margin: 20px 0 0 10px;
+    float: right;
+    flex: 1;
+    background-color: #E0F0F0;
+    margin-left: 15px;
+
+}
+
+.look_area {
+    width: 200px;
+    height: 100px;
+}
+
+.commentTextArea {
+    margin-top: 10px;
+    width: 300px;
+    height: 90px;
+}
